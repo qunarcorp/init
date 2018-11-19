@@ -11,7 +11,7 @@
 
 ## FAQ
 
-## 开发规范
+## How to contribute
 
 ## Authors
 
